@@ -51,16 +51,13 @@ Hello world!!!!
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  <br>
 
 #####插入github项目中的图片
-格式:  格式与网络图片一致,只是中括号中URL的路径需要根据具体图片路劲添加<br>
-
-url格式:https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片<br>
+格式:  <img src="https://github.com/需要上传的图片在项目中的路径(找到相关项目中对应的图片直接拷贝图片链接即可)" width=图片宽度 height=图片高度></img>
 
 如果担心写错直接在GitHub对应的项目中找到图片然后右键鼠标选择拷贝连接,该链接就是URL<br>
-![](https://github.com/JKbai/Test/blob/master/Test/1.PNG) 
-![](https://github.com/JKbai/Test/blob/master/Test/2.PNG) 
-![](https://github.com/JKbai/Test/blob/master/Test/3.PNG) 
-![](https://github.com/JKbai/Test/blob/master/Test/4.PNG)
-
+<img src="https://github.com/JKbai/Test/blob/master/Test/1.PNG" width=200px height=300px></img>
+<img src="https://github.com/JKbai/Test/blob/master/Test/2.PNG" width=200px height=300px></img>
+<img src="https://github.com/JKbai/Test/blob/master/Test/3.PNG" width=200px height=300px></img>
+<img src="https://github.com/JKbai/Test/blob/master/Test/4.PNG" width=200px height=300px></img>
 #####五级标题
 给一段文字加入超链接的格式是这样的 \[ 要显示的文字 \]\( 链接的地址 \)。比如：<br>
 [我的博客](http://www.cnblogs.com/yinxiao-bai1014/)<br>
