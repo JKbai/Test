@@ -51,7 +51,7 @@ Hello world!!!!
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  <br>
 
 #####插入github项目中的图片
-格式:  <img src="https://github.com/需要上传的图片在项目中的路径(找到相关项目中对应的图片直接拷贝图片链接即可)" width=图片宽度 height=图片高度></img>
+格式:  \<img src="https://github.com/需要上传的图片在项目中的路径(找到相关项目中对应的图片直接拷贝图片链接即可)" width=图片宽度 height=图片高度\>\</img\>
 
 如果担心写错直接在GitHub对应的项目中找到图片然后右键鼠标选择拷贝连接,该链接就是URL<br>
 <img src="https://github.com/JKbai/Test/blob/master/Test/1.PNG" width=200px height=300px></img>
