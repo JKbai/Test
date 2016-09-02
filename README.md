@@ -60,6 +60,8 @@ Hello world!!!!
 <img src="https://github.com/JKbai/Test/blob/master/Test/4.PNG" width=200px height=300px></img>
 #####五级标题
 给一段文字加入超链接的格式是这样的 \[ 要显示的文字 \]\( 链接的地址 \)。比如：<br>
+\[我的博客\]\(http://www.cnblogs.com/yinxiao-bai1014/\),效果如下:<br>
+
 [我的博客](http://www.cnblogs.com/yinxiao-bai1014/)<br>
 [我的GitHub](https://github.com/JKbai)<br>
 [我的简书](http://www.jianshu.com/users/46a9daddd47b/timeline)<br>
