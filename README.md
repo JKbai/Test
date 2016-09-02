@@ -18,40 +18,28 @@ Hello world!!!!
     谢谢<br>
 ####插入代码片段
 我们需要在代码的上一行和下一行用` `` 标记。``` 不是三个单引号，而是数字1左边，Tab键上面的键。要实现语法高亮那么只要在 ``` 之后加上你的编程语言即可（忽略大小写）。Object-C语言。看代码：
-```Objective-C
+```obj-c
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
-```
-```Objective-C
+
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"cell"];
-```
-```Objective-C
+
     static NSString *cellIdentifier = @"cell";
-```
-```Objective-C
+
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:cellIdentifier];
-```
-```Objective-C
+
     if (cell == nil) {
-```
-```Objective-C
+
         cell = [[UITableViewCell alloc]initWithStyle:UITableViewCellStyleDefault reuseIdentifier:cellIdentifier];
-```        
-```Objective-C        
     }
-```
-```Objective-C
+
     [cell extendAnimation];
-```
-```Objective-C
+
     cell.textLabel.text = @"你是猴子请来的逗逼么";
-```
-```Objective-C
+
     cell.imageView.image = [UIImage imageNamed:@"heh"];
-```
-```Objective-C
+
     return cell;
-```
-```Objective-C
+
 }
 ```
 
