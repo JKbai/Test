@@ -18,7 +18,7 @@ Hello world!!!!
     谢谢<br>
 插入网络图片<br>
 格式:叹号\! + 方括号\[\] + 括号\( \) 其中叹号里是图片的URL。<br>
-![鸣人](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=鸣人&hs=0&pn=0&spn=0&di=42747407450&pi=&rn=1&tn=baiduimagedetail&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=3728029259%2C3156821673&os=1788552710%2C807430948&simid=3365395293%2C218558166&adpicid=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=鸣人&objurl=http%3A%2F%2Fp4.gexing.com%2Fshaitu%2F20130102%2F2143%2F50e43972755ef.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B2jxtg2_z%26e3Bv54AzdH3FktzitAzdH3F8nda8nl_z%26e3Bip4s&gsm=0)
+![鸣人](http://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=鸣人&hs=0&pn=5&spn=0&di=135224704560&pi=&rn=1&tn=baiduimagedetail&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=2426489648%2C3333344524&os=3305180975%2C2194568138&simid=4161221860%2C706639708&adpicid=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=鸣人&objurl=http%3A%2F%2Fimg.ph.126.net%2FbcVSQMuO3p90Xsvye-ZWlw%3D%3D%2F3373477595877219387.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fks52_z%26e3B8mn_z%26e3Bv54AzdH3Fsyzs1_z%26e3B5hAzdH3Fks52AzdH3FfpwptvAzdH3F8ddmnblaada88mda9nacnnd9AzdH3F&gsm=0)
 #####五级标题
 给一段文字加入超链接的格式是这样的 \[ 要显示的文字 \]\( 链接的地址 \)。比如：<br>
 [我的博客](http://www.cnblogs.com/yinxiao-bai1014/)<br>
